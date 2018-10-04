@@ -2,6 +2,9 @@
 
 > Shopping list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
 
+# For Live Preview
+> https://secure-springs-68230.herokuapp.com/
+
 ## Quick Start
 
 ```bash
