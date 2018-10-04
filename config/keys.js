@@ -1,3 +1,3 @@
 module.exports = {
-  mongoURI: 'mongodb://localhost:27017/reactrap'
+  mongoURI: 'mongodb://omar:test123@ds223063.mlab.com:23063/mern-list'
 };
